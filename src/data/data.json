@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+        "id": 1,
+        "title": "ورود به سایت",
+        "link": "https://tarahandigital.com/"
+      },
+      {
+        "id": 2,
+        "title": "فروشگاه ما(به زودی)",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "title": "ایمیل ما",
+        "link": "mailto:info@tarahandigital.com"
+      },
+      {
+        "id":4,
+        "title": "اینستاگرام ما(به زودی)",
+        "link": "#"
+      },
+      {
+        "id": 5,
+        "title": "پیام در تلگرام",
+        "link": "https://t.me/tarahandigital"
+      },
+      {
+        "id": 6,
+        "title": "پیام در واتساپ",
+        "link": "https://api.whatsapp.com/send/?phone=09965923668&text&type=phone_number&app_absent=0"
+      }
+  ]
+}
